@@ -104,7 +104,7 @@ Additional [sample posts](https://mmistakes.github.io/so-simple-theme/posts/) ca
     9. [`layout: category`](#layout-category)
     10. [`layout: tag`](#layout-tag)
     11. [`layout: search`](#layout-search)
-6. [Images](#images)
+6. [images](#images)
 7. [Theme Text](#theme-text)
 8. [Navigation](#navigation)
 9. [Author](#author)
@@ -778,7 +778,7 @@ search_full_content: true
 
 **Note:** Large amounts of posts will increase the size of the search index, impacting page load performance. Setting `search_full_content` to `false` (the default) restricts indexing to the first 50 words of body content.
 
-## Images
+## images
 
 Suggested image sizes in pixels are as follows:
 
@@ -1224,7 +1224,7 @@ When submitting a pull request:
 * <https://twitter.com/mmistakes>
 * <https://github.com/mmistakes>
 
-### Icons + Demo Images:
+### Icons + Demo images:
 
 * [Font Awesome](https://fontawesome.com)
 * [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)
