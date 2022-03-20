@@ -34,7 +34,7 @@ void solve() {
         mid = (s + e) / 2;
         c = cnt(mid);
 
-        if (c < k) s = mid + 1, ans = mid;
+        if (c < k) s = mid + 1;
         else e = mid - 1, ans = mid;
     }
 
