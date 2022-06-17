@@ -2,13 +2,17 @@
 now=`LC_ALL=C date "+%B %d, %Y"`
 year=`LC_ALL=C date "+%Y"`
 month=`LC_ALL=C date "+%B"`
+dir_name=TIL/${year}/${month}
+f_name=TIL/${year}/${month}/${now}.md
+echo $f_name
 
-mkdir -p TIL/${year}/${month}
+mkdir -p $dir_name
 
-cat <<EOF > TIL/${year}/${month}/${now}.md
-# ${now} TIL
+cat <<EOF > $f_name
+# $f_name
 
 
 EOF
 
-code "TIL/${year}/${month}/${now}.md"
+code "$f_name"
+git add "$f_name"
