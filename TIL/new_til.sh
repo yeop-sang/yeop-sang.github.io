@@ -9,10 +9,9 @@ echo $f_name
 mkdir -p $dir_name
 
 cat <<EOF > $f_name
-# $f_name
+# $now 
 
 
 EOF
 
 code "$f_name"
-git add "$f_name"
