@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangyeop Kim"
 description              : "코드 치는 청년의 코드집"
-url                      : "yeop-sang.github.io"
+url                      : "https://github.yeop.kr"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -33,6 +33,7 @@ words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+toc                      : true
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -100,8 +101,14 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : 상엽# If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yeop@yeop.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.yeop.kr"
 
 # Analytics
 analytics:
@@ -219,6 +226,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# PWA (Progressive Web App) 설정 - 모바일에서 앱처럼 설치 가능
+# ---
+pwa:
+  enabled: true # PWA 기능 활성화
+  cache:
+    enabled: true # 오프라인 캐시 활성화
+
+
 
 # Sass/SCSS
 sass:
@@ -232,7 +247,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
