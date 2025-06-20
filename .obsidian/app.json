@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "/",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_post/daily_notes",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "_includes/",
+    "_data/",
+    "_layouts/",
+    "_sass/",
+    "assets/",
+    "docs/",
+    "test/"
+  ]
+}

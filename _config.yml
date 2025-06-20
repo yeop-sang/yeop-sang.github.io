@@ -317,6 +317,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Mermaid JS
+after_footer_scripts:
+  - https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.min.js
+  - /assets/js/mermaid.js
+
 
 # HTML Compression
 # - https://jch.penibelst.de/
