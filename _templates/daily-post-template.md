@@ -8,19 +8,19 @@ if (!postName) {
 let formattedDate = tp.date.now("YYYY-MM-DD");
 let newFileName = `${formattedDate}-${postName}`;
 await tp.file.rename(newFileName);
-tR += `# ${postName}`
 %>
 ---
 title: "<% newFileName %>"
 date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>+09:00 # KST (서울) 시간대 자동 반영
-categories: [Study, NLP] # 기본 카테고리 (자유롭게 수정)
-tags: [DeepLearning] # 기본 태그 (자유롭게 수정)
+categories: [] # 기본 카테고리 (자유롭게 수정)
+tags: [] # 기본 태그 (자유롭게 수정)
+obsidian_tags : #
 excerpt: "오늘 공부한 내용의 요약입니다."
 math: true
 toc: true
 ---
 
-## 오늘 학습한 주요 내용
+## 오늘 키워드
 <%* tp.file.cursor() %>
 
 ### 1. 개념 1

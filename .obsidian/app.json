@@ -12,5 +12,6 @@
     "assets/",
     "docs/",
     "test/"
-  ]
+  ],
+  "promptDelete": false
 }

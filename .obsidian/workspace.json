@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e448f46ad3f6b82",
+        "id": "e7d868cf41301751",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ab32a3aa1bb1ea",
+            "id": "a46b1a4c2fb591c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/science/2025-06-21-SHAP.md",
+                "file": "_templates/tech-post-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-21-SHAP"
+              "title": "tech-post-template"
             }
           }
         ]
@@ -171,8 +171,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c3ab32a3aa1bb1ea",
+  "active": "a46b1a4c2fb591c3",
   "lastOpenFiles": [
+    "_templates/daily-post-template.md",
+    "_posts/daily_notes/Untitled.md",
+    "_posts/daily_notes/2025-06-21-d.md",
+    "_posts/daily_notes/2025-06-21-Untitled.md",
+    "_posts/daily_notes/2025-06-21-tt.md",
+    "_posts/daily_notes/Untitled 1.md",
+    "_templates/tech-post-template.md",
+    "_posts/daily_notes/2025-06-21-pose.md",
+    "_posts/daily_notes/2025-06-21-tttt.md",
+    "_posts/science/2025-06-21-SHAP.md",
+    "_posts/daily_notes/2025-06-20-전자전시회-공모전.md",
     "_site/SHAP/index.html",
     "_site/SHAP",
     "_site/전자전시회-공모전/index.html",
@@ -183,17 +194,12 @@
     "_site/CNAME",
     "_site/assets/js/lunr/lunr.min.js",
     "_site/assets/js/lunr/lunr.js",
-    "_site/assets/js/lunr/lunr-store.js",
-    "_templates/daily-post-template.md",
     "CHANGELOG.md",
     "_post/science/2025-06-21-SHAP.md",
-    "_posts/science/2025-06-21-SHAP.md",
-    "_posts/daily_notes/2025-06-20-전자전시회-공모전.md",
     "_post/daily_notes/2025-06-21-Untitled.md",
     "_post/daily_notes/2025-06-20-전자전시회-공모전.md",
     "_post/science/2025-06-20-hello.md",
     "_post/daily_notes/2025-06-20-Hello-world.md",
-    "_templates/tech-post-template.md",
     "_post/daily_notes/2025-06-20-test.md",
     "_post/daily_notes/2025-06-20-일일 노트.md",
     "_post/daily_notes/2025-06-20 Friday 일일 노트.md",
@@ -202,8 +208,6 @@
     "_templates/simple-template.md",
     "_post/daily_notes/Untitled 2.md",
     "_post/Untitled.md",
-    "_post/daily_notes/hello.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "_post/daily_notes/hello.md"
   ]
 }

@@ -7,7 +7,6 @@ if (!postName) {
 let formattedDate = tp.date.now("YYYY-MM-DD");
 let newFileName = `${formattedDate}-${postName.replace(/ /g, '-')}`; // 공백을 하이픈으로 변경
 await tp.file.rename(newFileName);
-tR += `# ${postName}`
 %>
 ---
 title: "<% postName %>"
