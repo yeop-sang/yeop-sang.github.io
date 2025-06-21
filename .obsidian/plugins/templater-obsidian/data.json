@@ -15,11 +15,11 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "_post/daily_notes",
+      "folder": "_posts/daily_notes",
       "template": "_templates/daily-post-template.md"
     },
     {
-      "folder": "_post/science",
+      "folder": "_posts/science",
       "template": "_templates/tech-post-template.md"
     }
   ],

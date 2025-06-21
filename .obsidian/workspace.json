@@ -11,14 +11,10 @@
             "id": "c3ab32a3aa1bb1ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_post/daily_notes/2025-06-20-전자전시회-공모전.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-06-20-전자전시회-공모전"
+              "title": "New tab"
             }
           }
         ]
@@ -167,13 +163,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "c3ab32a3aa1bb1ea",
   "lastOpenFiles": [
-    "_templates/daily-post-template.md",
+    "_post/science/2025-06-21-SHAP.md",
+    "_posts/science/2025-06-21-SHAP.md",
+    "_posts/daily_notes/2025-06-20-전자전시회-공모전.md",
+    "_posts/science",
+    "_posts/daily_notes",
+    "_posts",
+    "_post/daily_notes/2025-06-21-Untitled.md",
     "_post/daily_notes/2025-06-20-전자전시회-공모전.md",
+    "_templates/daily-post-template.md",
     "assets/js/mermaid.js",
     "_post/science/2025-06-20-hello.md",
     "_post/daily_notes/2025-06-20-Hello-world.md",

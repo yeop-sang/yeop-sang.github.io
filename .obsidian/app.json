@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "/",
   "newFileLocation": "folder",
-  "newFileFolderPath": "_post/daily_notes",
+  "newFileFolderPath": "_posts/daily_notes",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
