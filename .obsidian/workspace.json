@@ -11,10 +11,14 @@
             "id": "c3ab32a3aa1bb1ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/science/2025-06-21-SHAP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-06-21-SHAP"
             }
           }
         ]
@@ -169,20 +173,27 @@
   },
   "active": "c3ab32a3aa1bb1ea",
   "lastOpenFiles": [
+    "_site/SHAP/index.html",
+    "_site/SHAP",
+    "_site/전자전시회-공모전/index.html",
+    "_site/전자전시회-공모전",
+    "_site/staticman.yml",
+    "_site/assets/js/mermaid.js",
+    "_site/assets/js/main.min.js.map",
+    "_site/CNAME",
+    "_site/assets/js/lunr/lunr.min.js",
+    "_site/assets/js/lunr/lunr.js",
+    "_site/assets/js/lunr/lunr-store.js",
+    "_templates/daily-post-template.md",
+    "CHANGELOG.md",
     "_post/science/2025-06-21-SHAP.md",
     "_posts/science/2025-06-21-SHAP.md",
     "_posts/daily_notes/2025-06-20-전자전시회-공모전.md",
-    "_posts/science",
-    "_posts/daily_notes",
-    "_posts",
     "_post/daily_notes/2025-06-21-Untitled.md",
     "_post/daily_notes/2025-06-20-전자전시회-공모전.md",
-    "_templates/daily-post-template.md",
-    "assets/js/mermaid.js",
     "_post/science/2025-06-20-hello.md",
     "_post/daily_notes/2025-06-20-Hello-world.md",
     "_templates/tech-post-template.md",
-    "_post/science",
     "_post/daily_notes/2025-06-20-test.md",
     "_post/daily_notes/2025-06-20-일일 노트.md",
     "_post/daily_notes/2025-06-20 Friday 일일 노트.md",
@@ -193,9 +204,6 @@
     "_post/Untitled.md",
     "_post/daily_notes/hello.md",
     "Untitled.md",
-    "_post/daily_notes",
-    "Untitled 1.md",
-    "_templates",
-    "_post"
+    "Untitled 1.md"
   ]
 }
