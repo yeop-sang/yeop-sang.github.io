@@ -13,7 +13,6 @@ title: "<% postName %>"
 date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>+09:00 # KST (서울) 시간대 자동 반영
 categories: [Technology, NLP] # 기본 카테고리 (자유롭게 수정)
 tags: [Python, Pytorch] # 기본 태그 (자유롭게 수정)
-obsidian_tags : #
 excerpt: "이 포스트는 ...에 대해 다룹니다."
 math: true
 toc: true
